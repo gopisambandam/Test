@@ -8,6 +8,7 @@ public class Bank {
 	public static void main(String[] args) {
 
 		    	Scanner scanner = new Scanner(System.in);
+		    	
 		        System.out.print("Enter your Operation: ");
 		        String operation = scanner.nextLine();
 		        while (operation != "X") {
